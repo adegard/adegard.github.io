@@ -1,0 +1,21 @@
+* {
+    margin:2px;
+    padding:0px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.i1pic {
+    width: 300px;
+}
+
+.logopic {
+    width: 50px;
+}
+
+.main-container {
+    background-color: rgb(209, 231, 231);
+    padding:1rem;
+}
